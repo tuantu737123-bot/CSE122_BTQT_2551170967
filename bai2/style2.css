@@ -1,0 +1,18 @@
+h1{color: #FFFFFF;
+text-align: center;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);}
+div{background-color: #C9A227;
+text-align: center;
+color:  #FFFFFF ;
+width: 900px;
+padding: 30px;
+margin: 30px auto;
+overflow: hidden;
+font-family: 'Times New Roman', Times, serif;
+box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);}
+p{text-align: justify;font-size: 20px;}
+img{border:1px solid #FFFFFF;
+float: right;
+;
+margin: 0 0 15px 20px;
+border-radius: 4px;}
